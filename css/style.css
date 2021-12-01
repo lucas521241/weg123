@@ -1,0 +1,15 @@
+.main-header .menu-item > a{
+    font-family:roboto, sans-serif;
+    font-size:1rem;
+    line-height:16px;
+}
+
+#DeltaSuiteBarRight{
+    font-family: roboto, sans-serif;
+    font-size: 14px;
+}
+
+#divBuscar{
+    font-family: roboto, sans-serif;
+    font-size: 14px;
+}

@@ -1,0 +1,92 @@
+#pageTitle{display:none !important}
+#sideNavBox{display:none !important}
+#contentBox{margin-left: 20px !important}
+#contentRow{
+    margin-top:0px !important;
+    padding-top:0px !important
+}
+#onetIDListForm{
+    width: 100%;
+}
+.breadcrumb-item + .breadcrumb-item::before {
+    color: white !important;
+}
+.card-admin:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 87, 156, 0.2), 0 6px 30px 0 rgba(0, 87, 156, 0.59) !important;
+}
+
+.return-icon {
+    position:fixed;
+    right:25px;
+    bottom:25px;
+    font-size: 18px;
+}
+.return-icon:hover{
+    box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18),0 4px 15px 0 rgba(0,0,0,0.15) !important;
+}
+
+.table-users{
+    font-size:18px !important
+}   
+
+    .table-users td, .table-users th{
+        font-size:18px !important
+    }
+    .user-funcao-sim{
+        color:#135903;
+    }
+
+    .user-funcao-nao{
+        color: #FF0000;
+    }
+    
+    .new-user-input{
+        font-size: 18px;
+    }
+
+    .user-new-icon{
+        font-size: 25px;
+    }
+
+    .select-funcao-icone{
+        color: #ccc
+    }
+        .select-funcao-icone-sim:hover{
+            color:#135903;
+        }
+        .select-funcao-icone-nao:hover{
+            color: #FF0000;
+        }
+    
+    .select-funcao-icone-sim.funcao-ativa{
+        color:#135903;
+    }
+
+    .select-funcao-icone-nao.funcao-ativa{
+        color: #FF0000;
+    }
+
+.invalidForm{
+    border: 1px solid #dc3545 !important;
+}
+.invalid-feedback {
+    display: none;
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: 80%;
+    color: #dc3545;
+}
+
+#AttachmentField, .ms-longfileinput {
+    width: 510px !important;
+    height: 35px !important;
+}
+
+.btn-form {
+    min-width: 150px !important;
+    padding: 14px !important;
+}
+
+.invalid-form{
+    border: 1px solid #dc3545 !important;
+}

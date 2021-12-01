@@ -1,0 +1,43 @@
+#pageTitle{display:none !important;}
+#sideNavBox{display:none !important;}
+#contentBox{margin-left:20px !important}
+#contentRow{
+    margin-top:0px !important;
+    padding-top:0px !important
+}
+.container-fluid {
+    font-size: 14px;
+}
+.weg-color {
+    background-color: #0072c6 !important;
+}
+.text-weg {
+    color: #0072c6 !important;
+}
+.breadcrumb-item + .breadcrumb-item::before {
+    color: white !important;
+}
+.ui-autocomplete {
+    max-height: 250px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+.invalidForm{
+    border: 1px solid #dc3545 !important;
+}
+.btn-form{
+    min-width: 150px !important;
+    padding: 14px !important;
+}
+#AttachmentField, .ms-longfileinput {
+    width: 510px !important;
+    height: 35px !important;
+}
+.ui-button {
+    width: 150px;
+    padding: 20px;
+}
+.ui-state-active{
+    background: #007fff !important;
+    color: #ffffff !important;
+}

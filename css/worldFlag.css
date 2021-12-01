@@ -1,0 +1,89 @@
+body{
+    font-family: roboto;
+    font-size: 14px;
+}
+
+.container{
+    position:relative;
+    margin: 0px 0px;
+    width: 100%;
+    top: -60px;
+    border: 4px solid #1D559C;
+    border-radius: 35px;
+}
+
+#titlePage2{
+    font-family:arial;
+    font-weight:900; 
+    color: #1D559C; 
+    font-size: 40pt;
+    padding: 15px 0px;
+}
+
+#btnPlanning{
+    margin-top: 25px;
+    margin-left: 100px;
+    background-color: #1D559C; 
+}
+
+.label{
+    font-family:arial;
+    font-weight:bold; 
+    color: #ffffff;
+    font-size: 15pt;
+    padding-top: 5px;
+    padding-left:15px;
+}
+
+#btnLabel{
+    font-family:arial;
+    font-weight:bold; 
+    color: #ffffff;
+    font-size: 15pt;
+    padding-top: 5px;
+    padding-left:15px;
+    float:right; 
+}
+
+#description{
+    margin-top: 35px;
+}
+
+#descriptionText{
+
+    color: #878787;
+    float: left;
+}
+
+#btnIcon{
+    float:left;
+}
+
+#cardFlags{
+    margin: 50px 50px;
+    padding: 0px 0px;
+}
+
+.card-body{
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+
+#flagContainer{
+    padding-top: 15px;
+    text-align:center;
+}
+
+.flag2{
+    height:50px;
+    width: auto;
+}
+
+#end{
+    padding-top:0px;
+
+}
+
+#btnPlanning:hover{
+    background-color: #00612e;
+}
